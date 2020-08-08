@@ -72,7 +72,7 @@ height in order to drive the genomes to perform better at all heights.
 
 ### Related Links -
 
-1. Evolving Neural Networks throughAugmenting Topologies, original paper by Stanley and Miikkulainen-<br />
+1. Evolving Neural Networks through Augmenting Topologies, original paper on NEAT by Stanley and Miikkulainen-<br />
   http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
   
 2. Neat-Python official documentation -<br />
